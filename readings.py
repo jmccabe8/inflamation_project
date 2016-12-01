@@ -7,5 +7,5 @@ def main():
 	data = loaddata.load(filename)
 	print(filename)
 	print(data.mean(axis=1))
-
+## some change
 main()
